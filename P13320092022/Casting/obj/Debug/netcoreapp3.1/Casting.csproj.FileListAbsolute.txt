@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P133\P13320092022\Casting\bin\Debug\netcoreapp3.1\Casting.exe
+C:\Users\hamid.mammadov\Desktop\P133\P13320092022\Casting\bin\Debug\netcoreapp3.1\Casting.deps.json
+C:\Users\hamid.mammadov\Desktop\P133\P13320092022\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P133\P13320092022\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P133\P13320092022\Casting\bin\Debug\netcoreapp3.1\Casting.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13320092022\Casting\bin\Debug\netcoreapp3.1\Casting.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13320092022\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13320092022\Casting\obj\Debug\netcoreapp3.1\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133\P13320092022\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13320092022\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133\P13320092022\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13320092022\Casting\obj\Debug\netcoreapp3.1\Casting.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13320092022\Casting\obj\Debug\netcoreapp3.1\Casting.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13320092022\Casting\obj\Debug\netcoreapp3.1\Casting.genruntimeconfig.cache
